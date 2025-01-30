@@ -11,4 +11,9 @@ static class Smilie
     {
         Console.WriteLine(":-(");
     }
+
+    public static void Bored()
+    {
+        Console.WriteLine(":-/");
+    }
 }

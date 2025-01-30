@@ -7,5 +7,6 @@ class Program
         Smilie.Happy();
         Smilie.Sad();
         Smilie.Bored();
+        Smilie.Crazy();
     }
 }

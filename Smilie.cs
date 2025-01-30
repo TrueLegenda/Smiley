@@ -16,4 +16,9 @@ static class Smilie
     {
         Console.WriteLine(":-/");
     }
+
+    public static void Crazy()
+    {
+        Console.WriteLine("XD");
+    }
 }

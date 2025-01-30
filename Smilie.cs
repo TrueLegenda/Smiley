@@ -6,4 +6,9 @@ static class Smilie
     {
         Console.WriteLine(":-)");
     }
+
+    public static void Sad()
+    {
+        Console.WriteLine(":-(");
+    }
 }

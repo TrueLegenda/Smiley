@@ -21,4 +21,14 @@ static class Smilie
     {
         Console.WriteLine(":-*");
     }
+
+    public static void Weird()
+    {
+        Console.WriteLine("\\_(^_^(_/");
+    }
+
+    public static void Shock()
+    {
+        Console.WriteLine(":-O");
+    }
 }
